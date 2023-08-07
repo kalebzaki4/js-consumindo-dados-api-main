@@ -27,8 +27,7 @@ Contribuições são bem-vindas! Se você deseja melhorar ou adicionar novas fun
 
 ## Autor 👤
 
-Nome: [Seu Nome]
-Contato: [Seu Email]
+Este projeto foi criado por Kaleb Zaki (@kalebzaki4). Você pode entrar em contato comigo através do meu email: kalebzsantosk@gmail.com.
 
 ## Licença 📜
 
